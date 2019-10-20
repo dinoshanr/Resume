@@ -61,10 +61,10 @@ Coursework: International Business, Accounting, Dynamics of International Busine
 
 ### CONTACT INFORMATION
 
-Phone: (716)-994-9742
-Email: dinoshan@buffalo.edu
-Portfolio: https://dinoshanr.github.io
-GitHub: https://github.com/dinoshanr
-LinkedIn: www.linkedin.com/in/dinoshan/
+* Phone: (716)-994-9742
+* Email: dinoshan@buffalo.edu
+* Portfolio: https://dinoshanr.github.io
+* GitHub: https://github.com/dinoshanr
+* LinkedIn: www.linkedin.com/in/dinoshan/
 
 
