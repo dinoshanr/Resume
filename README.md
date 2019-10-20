@@ -45,13 +45,13 @@ Foresters Financial Group | Jan 2017 - Aug 2017
 ### PROJECTS
 
 * REDDIT CLONE
-Reddit clone application using HTML5, CSS, Javascript and Bootstrap 4, Integrated API provided by American Express
+  *Reddit clone application using HTML5, CSS, Javascript and Bootstrap 4, Integrated API provided by American Express
 
 * PYTHON PRICE TRACKER
-Price tracker that tracked for changes in prices of Amazon items, built with Python and Amazon API
+  *Price tracker that tracked for changes in prices of Amazon items, built with Python and Amazon API
 
 * SPOTIFY
-Created a monolithic back-end using Spring and implemented PostgreSQL for database
+  *Created a monolithic back-end using Spring and implemented PostgreSQL for database
 
 ### EDUCATION
 
